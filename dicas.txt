@@ -1,0 +1,19 @@
+https://github.com/lailsonlm/videos-youtube/tree/main/blogtech
+
+Utilizou-se:
+para armazenar dados
+https://app.hygraph.com/
+para gerar textos aleatórios
+https://www.loremipzum.com/pt/gerador-de-texto
+para pegar fotos
+https://unsplash.com/pt-br/s/fotografias/plantas
+para estilização
+https://v1.tailwindcss.com/docs/text-align
+
+echo "# elias-gomes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/herbariorum/elias-gomes.git
+git push -u origin main
